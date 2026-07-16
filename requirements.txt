@@ -3,4 +3,5 @@ numpy
 matplotlib
 qiskit
 qiskit-aer
-qiskit[visualosiation
+qiskit.visualisation
+jupyter
