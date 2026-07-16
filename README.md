@@ -58,6 +58,7 @@ That mindset completely changed how I approached learning.
 * Matplotlib
 * Qiskit
 * Qiskit Aer
+* Qiskit Visualisation
 * Jupyter Notebook
 
 ---
