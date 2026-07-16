@@ -232,7 +232,7 @@ There are several directions I'd like to explore next.
 Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/ufo-analysis.git
+git clone https://github.com/Emmanuella-Adams/ufo-analysis.git
 ```
 
 Move into the project.
