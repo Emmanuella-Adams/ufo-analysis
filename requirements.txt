@@ -1,2 +1,6 @@
 pandas
 numpy
+matplotlib
+qiskit
+qiskit-aer
+qiskit[visualosiation
